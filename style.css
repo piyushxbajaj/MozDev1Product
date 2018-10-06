@@ -1,0 +1,23 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 38px;
+    font-family:'Courier New',Courier,monospace;
+    font-style:bold;
+    margin:5px;
+    padding:15px;
+    border:1px solid red;
+
+}
+body{
+    color: rgb(212, 189, 243);
+    background-color: black;
+    text-align: justified;
+    font-size: 15px;
+    font-family:'Courier New',Courier,monospace;
+    font-style:bold;
+
+}
+
+
+
